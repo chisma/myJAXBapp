@@ -10,8 +10,7 @@ import javax.xml.parsers.ParserConfigurationException;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
 
-import com.parser.app.models.MenuJson;
-import com.parser.app.models.MenuXML;
+import com.mycompany.app.models.MenuXML;
 
 public final class Parser {
 
